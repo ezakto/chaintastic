@@ -1,6 +1,6 @@
 {
   "name": "chaintastic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create chainable async APIs easily",
   "main": "lib/chaintastic.js",
   "repository": {
